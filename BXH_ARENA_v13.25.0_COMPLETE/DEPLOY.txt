@@ -1,0 +1,13 @@
+BXH ARENA v13.25.0
+
+部署：更新 index.html。
+Firestore Rules：無變更，沿用 v13.24.6。
+固定 OG 圖：已使用 https://memoryalwaysbibo.github.io/index.html/bxh-arena-og-image.png
+固定圖已獨立部署成功，後續版本不需重複上傳，除非要更換分享封面。
+
+本版重點：
+1. BUG 008 再開：帳號下拉改為 fixed overlay，永遠位於 sticky 主導覽上方。
+2. 玩家／工作人員／管理員共用身份晶片工具列；登出位於下拉選單。
+3. 名單桌面列分隔、手機卡片分隔與詳細資料層次強化。
+4. 發布前預覽沿用結構化資訊卡。
+5. OG 分享圖正式改用固定 PNG。
